@@ -36,5 +36,5 @@ def update_function_call_in_folder(folder_path, new_argument):
 
 
 # Example usage
-folder = 'C:\\Users\\Abdullah.Habeeb\\OneDrive - GlobalData PLC\\Desktop\\NexgileDataNotYielding\\jobsgenericwebcrawlerapp\\Testing'  # Update this to your actual folder path
+folder = ''  # Update this to your actual folder path
 update_function_call_in_folder(folder, '127')
